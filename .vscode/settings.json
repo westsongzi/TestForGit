@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "memory": "cpp",
+        "semaphore": "cpp",
+        "stop_token": "cpp"
+    }
+}
